@@ -2,7 +2,8 @@
 
 ## puzzles ive solved
 
-Usernames: Michael Kim, michael kim (rutgers), Michael Kim (Rutgers '27)
+usernames: Michael Kim, michael kim (rutgers), Michael Kim (Rutgers '27)
+see me on the leaderboard!
 
 | Problem |
 |------------|
